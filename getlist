@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "ten": "Bánh quy",
+    "mota": "Những chiếc bánh quy (biscuit) đầu tiên được nướng thành công ở Ba Tư (nay là Iran) trong thế kỷ thứ VII trước Công nguyên.",
+    "gia": 15000,
+    "anh": "anh1.png"
+  },
+  {
+    "id": 2,
+    "ten": "Bông lan trứng muối",
+    "mota": "Bánh bông lan trứng muối “chinh phục” mọi người bằng hương vị thơm ngon tuyệt vời. Khi ăn, vỏ bánh mềm ngọt và bùi bùi hòa cùng vị mằn mặn của trứng muối khiến cho mọi trái tim đều “tan chảy”.",
+    "gia": 35000,
+    "anh": "anh2.png"
+  },
+  {
+    "id": 3,
+    "ten": "Bánh sừng",
+    "mota": "Bánh sừng bò còn được gọi là bánh croa-xăng (từ tiếng Pháp Croissant), có nguồn gốc từ Áo, là một dạng bánh ăn sáng làm từ pâte feuilletée (bột xốp), được sản xuất từ bột mì, men, bơ, sữa, và muối.",
+    "gia": 40000,
+    "anh": "anh3.png"
+  },
+  {
+    "id": 4,
+    "ten": "Bánh xúc xích",
+    "mota": "Bánh mì Xúc xích tươi Phomai có nhân là các món yêu thích của bé: xúc xích tươi, pate, phomai. Với vỏ bánh được làm với công thức riêng, mềm và thơm kết hợp cùng sốt mù tạt mật ong ngọt thơm, Bánh mì Trẻ em hoàn toàn phù hợp cho bữa sáng đủ dinh dưỡng của bé.",
+    "gia": 25000,
+    "anh": "anh4.png"
+  }
+]
